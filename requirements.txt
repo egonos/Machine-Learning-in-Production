@@ -1,0 +1,39 @@
+# core
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+
+# models
+lightgbm
+xgboost
+statsmodels
+
+# explainability
+shap
+interpret
+dice-ml
+
+# calibration and uncertainty
+mapie
+netcal
+
+# time series
+sktime
+skforecast
+
+# drift and streaming
+river
+evidently
+
+# feature selection and tuning
+Boruta
+mlxtend
+optuna
+
+# production
+mlflow
+pandera
+joblib
